@@ -1,4 +1,4 @@
 blackIp:
-  continueCounts: ${counts:10}  #ip请求的次数
-  timeInterval: ${interval:10}  #ip判断时间间隔
-  limitTimes: ${times:15}       #限制的事件
+  continueCounts: 10
+  timeInterval: 10
+  limitTimes: 15
